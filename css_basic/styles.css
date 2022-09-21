@@ -12,6 +12,9 @@ aside {
 article {
     flex: 2;
     overflow: auto;
+    backkground-color: green;
+    border-style: solid;
+    border-width: 20px 5px;
 }
 footer {
 }
