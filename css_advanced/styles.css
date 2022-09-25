@@ -53,7 +53,7 @@
     top: 41.54px;
     background: #FFFFFF;
 }
-div.background_header {
+.background_header {
     position: absolute;
     width: 1440px;
     height: 1093px;
@@ -124,7 +124,7 @@ div.background_header {
     text-align: center;
     color: #C271FF;
 }
-h2.regist {
+.regist {
     position: absolute;
     height: 18px;
     left: 12.35%;
@@ -138,7 +138,7 @@ h2.regist {
     text-align: center;
     color: #FFFFFF;
 }
-div.pros {
+.pros {
     position: absolute;
     width: 1009px;
     height: 237px;
@@ -160,7 +160,7 @@ div.pros {
     bottom: 36.71%;
     background: #FFFFFF;
 }
-div.pro1 {
+.pro1 {
     position: absolute;
     left: 15.07%;
     right: 74.51%;
@@ -175,7 +175,7 @@ div.pro1 {
     bottom: 36.71%;
     background: url(Image.png);
 }
-div.pro2 {
+.pro2 {
     position: absolute;
     left: 35.14%;
     right: 54.44%;
@@ -190,7 +190,7 @@ div.pro2 {
     bottom: 36.71%;
     background: url(Image);
 }
-div.pro3 {
+.pro3 {
     position: absolute;
     left: 54.65%;
     right: 34.93%;
@@ -205,7 +205,7 @@ div.pro3 {
     bottom: 36.71%;
     background: url(Image);
 }
-div.pro4 {
+.pro4 {
     position: absolute;
     left: 74.72%;
     right: 14.86%;
@@ -219,7 +219,7 @@ div.pro4 {
     bottom: 36.71%;
     background: url(Image)
 }
-h3.name {
+.name {
     position: absolute;
     height: 27px;
     left: 0%;
@@ -247,7 +247,7 @@ h3.name {
     text-align: center;
     color: #FFFFFF;
 }
-div.background {
+.background {
     position: absolute;
     width: 1440px;
     height: 392px;
@@ -271,5 +271,53 @@ div.background {
 }
 .quote {
     position: absolute;
-
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 56.96%;
+    font-family: 'Source Sans Pro';
+    font-style: 22px;
+    line-height: 34px;
+    color: #FFFFFF
+}
+.persname {
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 82.33%;
+    top: calc(50% - 34px/2 + 28px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.weather {
+    position: absolute;
+    height: 34px;
+    left: 0%;
+    right: 77.4%;
+    top: calc(50% - 34px/2 + 62px);
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 34px;
+    color: #FFFFFF;
+}
+.avatar_test {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
+}
+.mask_test {
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    left: 259px;
+    top: 1201px;
+    background: #FFFFFF;
 }
