@@ -45,3 +45,156 @@
     background: #FFFFFF;
     transform: rotate(-7deg); 
 }
+.smileschool {
+    position: absolute;
+    width: 111.83px;
+    height: 12.58px;
+    left: 226.77px;
+    top: 41.54px;
+    background: #FFFFFF;
+}
+.Get {
+    position: absolute;
+    height: 151px;
+    left: 26.18px;
+    right: 26.32px;
+    top: calc(50% - 151px/2 - 251px);
+    font-family: 'Source sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 120px;
+    line-height: 151px;
+    text-align: center;
+    color: #FFFFFF;
+}
+button {
+    position: absolute;
+    left: 44.38%;
+    right: 44.38%;
+    top: 38.33%;
+    bottom: 57.64%;
+    filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
+}
+.low_header {
+    position: absolute;
+    height: 40px;
+    left: 41.94%;
+    right: 39.93%;
+    top: calc(50% - 40px/2 + 104.5px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: #C271FF;
+}
+div.pros {
+    position: absolute;
+    width: 1009px;
+    height: 237px;
+    left: 217px;
+    top: 758px;
+}
+.avatar {
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    top: 0px;
+}
+.mask {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 36.71%;
+    background: #FFFFFF;
+}
+div.pro1 {
+    position: absolute;
+    left: 15.07%;
+    right: 74.51%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+.img1 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 36.71%;
+    background: url(Image.png);
+}
+div.pro2 {
+    position: absolute;
+    left: 35.14%;
+    right: 54.44%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+.img2 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 36.71%;
+    background: url(Image);
+}
+div.pro3 {
+    position: absolute;
+    left: 54.65%;
+    right: 34.93%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+.img3 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0.06%;
+    bottom: 36.71%;
+    background: url(Image);
+}
+div.pro4 {
+    position: absolute;
+    left: 74.72%;
+    right: 14.86%;
+    top: 69.35%;
+}
+.img4 {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 36.71%;
+    background: url(Image)
+}
+h3.name {
+    position: absolute;
+    height: 27px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 27px/2 + 55px);
+    font-family: 'Source sans Pro';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 27px;
+    text-align: center;
+    color: #FFFFFF;
+}
+p.text {
+    position: absolute;
+    height: 48px;
+    left: 0%;
+    right: 0%;
+    top: calc(50% - 48px/2 + 94.5px);
+    font-family: 'Source Sans Pro';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
