@@ -198,3 +198,29 @@ p.text {
     text-align: center;
     color: #FFFFFF;
 }
+div.background {
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+    background: #C271FF;
+}
+.main_part {
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
+.part_testmonials {
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -1px;
+    top: 1093px;
+}
+.quote {
+    position: absolute;
+    
+}
