@@ -13,5 +13,35 @@
     left: 1041px;
     top: 37px;
 }
-
-    
+.logo {
+    position: absolute;
+    width: 167.02px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+.left_eye {
+    position: absolute;
+    width: 7.87px;
+    height: 11.85px;
+    left: 175.99px;
+    top: 35.02px;
+    background: #FFFFFF;
+}
+.right_eye {
+    position: absolute;
+    width: 7.87px;
+    height: 11.85px;
+    left: 175.99px;
+    top: 35.02px;
+    background: #FFFFFF
+}
+.smile {
+    position: absolute;
+    width: 35.57px;
+    height: 8.87px;
+    left: 171.59px;
+    top: 55.68px;
+    background: #FFFFFF;
+    transform: rotate(-7deg); 
+}
