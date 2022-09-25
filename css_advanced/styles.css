@@ -53,6 +53,13 @@
     top: 41.54px;
     background: #FFFFFF;
 }
+div.background_header {
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
 .Get {
     position: absolute;
     height: 151px;
@@ -67,7 +74,35 @@
     text-align: center;
     color: #FFFFFF;
 }
-button {
+.smile,.grin,.laugh {
+    position: absolute;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.smile {
+    height: 20px;
+    left: 41.18%;
+    right: 55.21%;
+    top: calc(50% - 20px/2 - 175.5px);
+}
+.grin {
+    height: 20px;
+    left: 48.89%;
+    right: 48.61%;
+    top: calc(50% - 20px/2 - 175.5px);
+}
+.laugh {
+    height: 20px;
+    left: 55.35%;
+    right:41.25%;
+    top: calc(50% - 20px/2 - 175.5px);
+}
+.button {
     position: absolute;
     left: 44.38%;
     right: 44.38%;
@@ -88,6 +123,20 @@ button {
     line-height: 40px;
     text-align: center;
     color: #C271FF;
+}
+h2.regist {
+    position: absolute;
+    height: 18px;
+    left: 12.35%;
+    right: 12.96%;
+    top: calc(50% - 18px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
 }
 div.pros {
     position: absolute;
@@ -184,7 +233,7 @@ h3.name {
     text-align: center;
     color: #FFFFFF;
 }
-p.text {
+.text {
     position: absolute;
     height: 48px;
     left: 0%;
@@ -222,5 +271,5 @@ div.background {
 }
 .quote {
     position: absolute;
-    
+
 }
