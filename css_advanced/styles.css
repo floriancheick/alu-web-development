@@ -714,3 +714,137 @@
     line-height: 24px;
     color: rgba(7, 22, 41, 0.501584);
 }
+#part6_footer {
+    position: absolute;
+    width: 1440px;
+    height: 249px;
+    left: 0px;
+    top: 3469px;
+}
+#part6_back {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #071629;
+}
+.social_icon {
+    position: absolute;
+    width: 130px;
+    height: 30px;
+    left: 1070px;
+    top: 90px;
+}
+.facebook {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1070px;
+    top: 90px;
+}
+.combine_shape_facebook {
+    position: absolute;
+    left: 74.31%;
+    right: 23.61px;
+    top: 36.14%;
+    bottom: 51.81%;
+    background: #FFFFFF;
+}
+#twitter {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1120px;
+    top: 90px;
+}
+.combine_shape_twitter {
+    position: absolute;
+    left: 77.78%;
+    right: 20.14%;
+    top: 36.14%;
+    bottom: 51.81%;
+    background: #FFFFFF;
+}
+#instagram {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 1170px;
+    top: 90px;
+}
+.combine_shape_instagram {
+    position: absolute;
+    left: 81.84%;
+    right: 17.25%;
+    top: 39.53%;
+    bottom: 55.2%;
+    background: #FFFFFF;
+}
+#footer_logo {
+    position: absolute;
+    left: 11.46%;
+    right: 76.81%;
+    top: 38.15%;
+    bottom: 49.8%;
+}
+.smileschool_f {
+    position: absolute;
+    height: 20px;
+    left: 32.54%;
+    right: 0%;
+    top: calc(50% - 20px/2 + 1px);
+    font-family: 'Coiny';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+.footer_smile {
+    position: absolute;
+    width: 36.39px;
+    height: 29.46px;
+    left: 0.59px;
+    top: 0.02px;
+}
+.f_left_eye {
+    position: absolute;
+    left: 2.96%;
+    right: 92.39%;
+    top: 0.08%;
+    bottom: 60.43%;
+    background: #FFFFFF;
+}
+.f_right_eye {
+    position: absolute;
+    left: 14.03%;
+    right: 81.32%;
+    top: 0.08%;
+    bottom: 60.43%;
+    background: #FFFFFF;
+}
+.f_smile {
+    position: absolute;
+    left: 0.35%;
+    right: 78.6%;
+    top: 68.95%;
+    bottom: 1.5%;
+    background: #FFFFFF;
+    transform: rotate(-7deg);
+}
+.f_text {
+    position: absolute;
+    height: 15px;
+    left: 46.67%;
+    right: 46.67%;
+    top: calc(50% - 15px/2 + 78px);
+    font-family: 'Source Sans pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.35;
+}
