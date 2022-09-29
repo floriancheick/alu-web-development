@@ -1,4 +1,4 @@
-#header_page {
+header{
     position: absolute;
     width: 1103.41px;
     height: 29.46px;
@@ -6,7 +6,7 @@
     top: 35.02px;
 }
 
-.menu {
+#menu {
     position: absolute;
     width: 234px;
     height: 15px;
