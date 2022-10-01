@@ -1,4 +1,10 @@
-header{
+body {
+    position: relative;
+    width: 1440px;
+    height: 3718px;
+    background: #FFFFFF;
+}
+#header_page{
     position: absolute;
     width: 1103.41px;
     height: 29.46px;
@@ -12,6 +18,46 @@ header{
     height: 15px;
     left: 1041px;
     top: 37px;
+}
+.courses {
+    position: absolute;
+    height: 15px;
+    left: 0%;
+    right: 78.63%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
+}
+.pricing {
+    position: absolute;
+    height: 15px;
+    left: 43.59%;
+    right: 37.18%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #FFFFFF;
+}
+.login {
+    position: absolute;
+    height: 15px;
+    left: 85.47%;
+    right: 0%;
+    top: calc(50% - 15px/2);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 15px;
+    color: #FFFFFF;
 }
 .logo {
     position: absolute;
@@ -53,12 +99,34 @@ header{
     top: 41.54px;
     background: #FFFFFF;
 }
+main {
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+}
 .background_header {
     position: absolute;
     width: 1440px;
     height: 1093px;
     left: 0px;
     top: 0px;
+}
+#mask_header {
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #071629;
+}
+#object {
+    position: absolute;
+    width: 1448.15px;
+    height: 1055px;
+    left: -4.08px;
+    top: -66px;
 }
 .Get {
     position: absolute;
